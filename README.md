@@ -44,7 +44,7 @@ pip install opencv-python numpy pytesseract tqdm
 ### 3. Download this tool
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/flight-track-extractor.git
+git clone https://github.com/shoebill33/flight-track-extractor.git
 cd flight-track-extractor
 ```
 
