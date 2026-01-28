@@ -56,13 +56,13 @@ cd flight-track-extractor
 ```powershell
 $env:PATH += ";C:\Program Files\Tesseract-OCR"
 cd "C:\path\to\flight-track-extractor"
-python calibrate_grid.py
+python calibrate.py
 ```
 
 **Mac/Linux:**
 ```bash
 cd /path/to/flight-track-extractor
-python calibrate_grid.py
+python calibrate.py
 ```
 
 The tool will guide you through the entire process.
