@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# User generated files
+*_track.csv
+*_track.kml
+*_track.geojson
+*_calibration.json
+*_grid.png
+*_frame.png
+
+# Video files
+*.mp4
+*.avi
+*.mkv
+*.mov
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Keep screenshots
+!screenshots/*.png
