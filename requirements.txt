@@ -1,0 +1,16 @@
+# Flight Track Extractor - Requirements
+# Install with: pip install -r requirements.txt
+
+# Core dependencies
+opencv-python>=4.8.0
+pytesseract>=0.3.10
+numpy>=1.24.0
+
+# Progress bar
+tqdm>=4.65.0
+
+# Google Drive support (optional)
+gdown>=4.7.0
+
+# For enhanced OCR accuracy (optional)
+# Pillow>=10.0.0
